@@ -1,0 +1,4 @@
+python-binance
+boto3
+pandas
+numpy
