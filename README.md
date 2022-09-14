@@ -43,4 +43,3 @@ My goal for this project was to apply data engineering skills and a little bit o
 * There is a clear correlation between the change in bitcoin price to daily sentiment, this is not enough to assert causation. Next steps, would be to get data from other social media sources aside from Twitter
 
 * It may also be useful to think about each user's tweet metrics for example the amount of times the tweet was favorited, the number of followers the user has. You can use this to build an influence metric for each tweet
-
