@@ -13,7 +13,7 @@ My goal for this project was to apply data engineering skills and a little bit o
 
 
 
-###Contents:
+### Contents:
 
 * scraper_price.ipynb - This notebook contains the bitcoin price scraping code
 
@@ -27,13 +27,13 @@ My goal for this project was to apply data engineering skills and a little bit o
 
 
 
-####How to run the jupyter notebooks:
+#### How to run the jupyter notebooks:
 
 * Download the files locally and run cells in saved order
 
 
 
-#####Key Project Takeaways:
+##### Key Project Takeaways:
 
 * There is a clear correlation between the change in bitcoin price to daily sentiment, this is not enough to assert causation. Next steps, would be to get data from other social media sources aside from Twitter
 
