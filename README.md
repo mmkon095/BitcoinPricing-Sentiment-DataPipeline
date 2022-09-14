@@ -4,9 +4,9 @@ My goal for this project was to apply data engineering skills and a little bit o
 
 Requirements:
 
-* [Binance API access] (https://www.binance.com/en/binance-api)
+* [Binance API access](https://www.binance.com/en/binance-api)
 
-* Twitter API elevated access (https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
+* [Twitter API elevated access](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 
 * An Amazon Web Services account. Please make sure to set budget alerts so you dont incur costs
 
