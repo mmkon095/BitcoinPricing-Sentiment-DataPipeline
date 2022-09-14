@@ -26,6 +26,8 @@ My goal for this project was to apply data engineering skills and a little bit o
 
 * datawrangling_code.ipynb - This notebook contains the data manipulation code
 
+* Project Report.pdf - A summary of the project
+
 
 
 
