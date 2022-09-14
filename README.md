@@ -13,6 +13,7 @@ My goal for this project was to apply data engineering skills and a little bit o
 
 
 
+
 ## Contents:
 
 * scraper_price.ipynb - This notebook contains the bitcoin price scraping code
@@ -27,9 +28,11 @@ My goal for this project was to apply data engineering skills and a little bit o
 
 
 
+
 ## How to run the jupyter notebooks:
 
 * Download the files locally and run cells in saved order
+
 
 
 
