@@ -8,7 +8,7 @@ Requirements:
 
 * [Twitter API elevated access](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 
-* [An Amazon Web Services account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start/email) [Please make sure to set budget alerts so you dont incur costs](https://catalins.tech/how-to-setup-a-budget-on-aws)
+* [An Amazon Web Services account.](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start/email) [(Please make sure to set budget alerts so you dont incur costs)](https://catalins.tech/how-to-setup-a-budget-on-aws)
 
 
 How to run this:
