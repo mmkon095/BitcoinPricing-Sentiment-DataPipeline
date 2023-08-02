@@ -35,7 +35,7 @@ My goal for this project was to apply data engineering skills and a little bit o
 
 ## How to run the jupyter notebooks:
 
-* Download the files locally and run cells in saved order
+* Download the files locally and run cells in saved order. Please make sure to fill in the blank variable in the config.py script e.g api key, aws resource name etc.......
 
 
 
