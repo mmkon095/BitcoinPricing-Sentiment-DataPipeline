@@ -2,6 +2,8 @@
 
 My goal for this project was to apply data engineering skills and a little bit of analytics to develop a simple ETL pipeline that extracts Bitcoin pricing and tweet data through an API and use AWS resources (EC2, S3, Redshift) to scrape the data and batch load it into a bucket then use Redshift to join data tables and finally visualize it in Tableau or any viz tool of your choice. Let me emphasize that everything is free using the AWS Free resources so anyone can get started on this.
 
+![Picture1](https://github.com/mmkon095/BitcoinPricing-Sentiment-DataPipeline/assets/80499087/959ec563-aad1-4b23-8332-b5893822266a)
+
 
 ## Requirements:
 
